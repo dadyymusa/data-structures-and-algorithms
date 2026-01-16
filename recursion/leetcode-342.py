@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/power-of-four/description/?envType=problem-list-v2&envId=recursion
+
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
         if n <= 0:
